@@ -1,0 +1,19 @@
+h1 {
+    font-size: 64px;
+}
+
+h2 {
+    font-size: 32px;
+}
+
+h1 {
+    color: blueviolet;
+}
+
+h2 {
+    color: yellowgreen;
+}
+
+body {
+    background-color: coral;
+}
